@@ -31,7 +31,8 @@ eigenvalues, eigenvectors = np.linalg.eig(matrix)
 print("Eigen values are", eigenvalues,"and Eigen Vectors are", eigenvectors)
 ```
 ## Output:
-<img width="1351" height="306" alt="Screenshot 2025-08-14 163541" src="https://github.com/user-attachments/assets/7cd89a3d-4723-48be-bef3-cb5adb5e2218" />
+<img width="1493" height="910" alt="Screenshot 2025-08-26 112136" src="https://github.com/user-attachments/assets/70a18d85-f899-4b8d-bb97-1652d23b0160" />
+
 
 
 ## Result:
